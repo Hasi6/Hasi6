@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasi6" alt="hasi6" /></a> </p>
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [https://www.hasitha6.com/](https://www.hasitha6.com/)
 
