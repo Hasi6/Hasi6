@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [https://www.hasitha6.com/](https://www.hasitha6.com/)
+- 👨‍💻 All of my projects are available at [https://hasi.netlify.app/](https://hasi.netlify.app/)
 
 - 📝 I regularly write articles on [https://hasitha-chandula.medium.com/](https://hasitha-chandula.medium.com/)
 
